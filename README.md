@@ -6,6 +6,6 @@ Place: Computer Science Faculty UCM [Website](http://informatica.ucm.es)
 Date: 28/April/2016 - 17:00pm - Aula 14
 
 Material:
-- Slides ([English](Slides/))
+- Slides ([English](Slides/English.pdf))
 - Website (final result)
 - Posters ([Spanish](/Posters))
